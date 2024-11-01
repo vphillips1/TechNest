@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\verke\\source\\repos\\TechNest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\.gitignore",
+              "RelativeDocumentMoniker": "TechNest\\.gitignore",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\.gitignore",
+              "RelativeToolTip": "TechNest\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T18:46:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "TechNest\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Constants\\Roles.cs",
+              "RelativeToolTip": "TechNest\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:40:52.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
               "RelativeDocumentMoniker": "TechNest\\Program.cs",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
               "RelativeToolTip": "TechNest\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAawDIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:17:04.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:17:04.211Z"
             }
           ]
         }
