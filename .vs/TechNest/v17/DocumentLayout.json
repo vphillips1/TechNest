@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\verke\\source\\repos\\TechNest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TechNest/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,24 +25,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\.gitignore",
-              "RelativeDocumentMoniker": "TechNest\\.gitignore",
-              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\.gitignore",
-              "RelativeToolTip": "TechNest\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-01T18:46:56.729Z",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TechNest/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-02T00:40:21.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Data\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "TechNest\\Data\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Data\\RoleSeeder.cs",
+              "RelativeToolTip": "TechNest\\Data\\RoleSeeder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:56:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Constants\\Roles.cs",
               "RelativeDocumentMoniker": "TechNest\\Constants\\Roles.cs",
@@ -47,19 +60,21 @@
               "RelativeToolTip": "TechNest\\Constants\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:40:52.702Z"
+              "WhenOpened": "2024-11-01T18:40:52.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
               "RelativeDocumentMoniker": "TechNest\\Program.cs",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
               "RelativeToolTip": "TechNest\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:17:04.211Z"
+              "WhenOpened": "2024-11-01T03:17:04.211Z",
+              "EditorCaption": ""
             }
           ]
         }
