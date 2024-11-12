@@ -41,6 +41,7 @@ namespace TechNest
             {
                 var services = scope.ServiceProvider;
                 RoleSeeder.SeedRolesAsync(services).Wait();  
+                UserSeeder.SeedUserAsync(services).Wait();
             }
 
             app.UseHttpsRedirection();
