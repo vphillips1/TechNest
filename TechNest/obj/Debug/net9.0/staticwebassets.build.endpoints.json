@@ -1,5 +1,6 @@
 {
   "Version": 1,
+  "ManifestType": "Build",
   "Endpoints": [
     {
       "Route": "Identity/css/site.css",
@@ -253,7 +254,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
@@ -701,7 +702,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -975,7 +976,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -1249,7 +1250,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -1523,7 +1524,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -1797,7 +1798,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -2071,7 +2072,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -2345,7 +2346,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -2619,7 +2620,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -2893,7 +2894,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -3167,7 +3168,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -3441,7 +3442,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -3715,7 +3716,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -3989,7 +3990,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -4263,7 +4264,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -4537,7 +4538,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -4811,7 +4812,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -5085,7 +5086,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -5359,7 +5360,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -5633,7 +5634,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -5907,7 +5908,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -6181,7 +6182,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -6455,7 +6456,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -8099,7 +8100,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -8510,7 +8511,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -9259,7 +9260,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
@@ -9404,7 +9405,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
@@ -10219,7 +10220,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -10372,7 +10373,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -10625,7 +10626,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -10815,7 +10816,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -11221,7 +11222,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -11411,7 +11412,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -11685,7 +11686,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -11838,7 +11839,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -12619,7 +12620,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -12764,7 +12765,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -13038,7 +13039,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -13191,7 +13192,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -13766,7 +13767,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -13956,7 +13957,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -14230,7 +14231,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -14383,7 +14384,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -14842,7 +14843,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -14987,7 +14988,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -15422,7 +15423,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -15575,7 +15576,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -15989,7 +15990,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -16179,7 +16180,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -16424,7 +16425,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -16614,7 +16615,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -17181,7 +17182,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -17371,7 +17372,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -17777,7 +17778,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -17967,7 +17968,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -18373,7 +18374,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -18563,7 +18564,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -18969,7 +18970,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -19159,7 +19160,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -19610,7 +19611,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -19755,7 +19756,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -20322,7 +20323,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -20512,7 +20513,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -20757,7 +20758,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -20947,7 +20948,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -21382,7 +21383,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -21535,7 +21536,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -21949,7 +21950,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -22139,7 +22140,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -22413,7 +22414,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -22566,7 +22567,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -26029,7 +26030,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
@@ -26472,7 +26473,7 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/x-gzip"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
