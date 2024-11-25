@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\verke\\source\\repos\\TechNest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
+              "RelativeDocumentMoniker": "TechNest\\Program.cs",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Program.cs",
+              "RelativeToolTip": "TechNest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:58:33.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobPostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Repositories\\JobPostingRepository.cs",
+              "RelativeDocumentMoniker": "TechNest\\Repositories\\JobPostingRepository.cs",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Repositories\\JobPostingRepository.cs",
+              "RelativeToolTip": "TechNest\\Repositories\\JobPostingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:44:24.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "TechNest\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Repositories\\IRepository.cs",
               "RelativeToolTip": "TechNest\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T18:08:59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20241122042746_AddedJobPostings.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Migrations\\20241122042746_AddedJobPostings.cs",
               "RelativeDocumentMoniker": "TechNest\\Migrations\\20241122042746_AddedJobPostings.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "TechNest\\Migrations\\20241122042746_AddedJobPostings.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T04:27:46.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:27:46.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TechNest\\Data\\ApplicationDbContext.cs",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20241122040933_Initial.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Migrations\\20241122040933_Initial.cs",
               "RelativeDocumentMoniker": "TechNest\\Migrations\\20241122040933_Initial.cs",
@@ -84,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "JobPosting.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Models\\JobPosting.cs",
               "RelativeDocumentMoniker": "TechNest\\Models\\JobPosting.cs",

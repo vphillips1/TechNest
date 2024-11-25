@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35309.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechNest", "TechNest\TechNest.csproj", "{90493362-CF3B-47EB-8C02-84554BFB2398}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechNest.Tests", "TechNest.Tests\TechNest.Tests.csproj", "{BA4815ED-CE6F-436E-9928-F471CFD17733}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{90493362-CF3B-47EB-8C02-84554BFB2398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90493362-CF3B-47EB-8C02-84554BFB2398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90493362-CF3B-47EB-8C02-84554BFB2398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4815ED-CE6F-436E-9928-F471CFD17733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4815ED-CE6F-436E-9928-F471CFD17733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4815ED-CE6F-436E-9928-F471CFD17733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4815ED-CE6F-436E-9928-F471CFD17733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
