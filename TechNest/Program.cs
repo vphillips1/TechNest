@@ -2,6 +2,8 @@ using TechNest.Constants;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using TechNest.Data;
+using TechNest.Repositories;
+using TechNest.Models;
 
 namespace TechNest
 {
@@ -22,7 +24,9 @@ namespace TechNest
             })
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-                
+            
+            
+            builder.Services.AddScoped<IRepository<JobPosting>, JobPostingRepository>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

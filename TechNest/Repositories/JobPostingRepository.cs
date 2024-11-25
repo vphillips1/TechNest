@@ -1,32 +1,55 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
+using TechNest.Data;
 using TechNest.Models;
 namespace TechNest.Repositories
 {
     public class JobPostingRepository : IRepository<JobPosting>
     {
-        public Task AddAsync(JobPosting entity)
+
+        private readonly ApplicationDbContext _context;
+        public JobPostingRepository(ApplicationDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+        public async Task AddAsync(JobPosting entity)
+        {
+          await _context.JobPostings.AddAsync(entity);
+          await _context.SaveChangesAsync();
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+           var jobPosting = await _context.JobPostings.FindAsync(id);
+            if (jobPosting == null)
+            {
+                throw new KeyNotFoundException();
+            }
+
+            _context.JobPostings.Remove(jobPosting);
+            await _context.SaveChangesAsync();
         }
 
-        public Task<IEnumerable<JobPosting>> GetAllAsync()
+        public async Task<IEnumerable<JobPosting>> GetAllAsync()
         {
-            throw new NotImplementedException();
+           return await _context.JobPostings.ToListAsync();
         }
 
-        public Task<JobPosting> GetByIdAsync(int id)
+        public async Task<JobPosting> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var jobPosting = await _context.JobPostings.FindAsync(id);
+            if (jobPosting == null)
+            {
+                throw new KeyNotFoundException();
+                
+            }
+            return jobPosting;
         }
 
-        public Task UpdateAsync(JobPosting entity)
+        public async Task UpdateAsync(JobPosting entity)
         {
-            throw new NotImplementedException();
+           _context.JobPostings.Update(entity);
+            await _context.SaveChangesAsync();
         }
     }
 }
