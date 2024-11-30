@@ -15,7 +15,7 @@ namespace TechNest.Repositories
         public async Task AddAsync(JobPosting entity)
         {
           await _context.JobPostings.AddAsync(entity);
-          await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
 
         public async Task DeleteAsync(int id)
