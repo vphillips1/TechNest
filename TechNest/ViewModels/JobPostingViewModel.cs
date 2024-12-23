@@ -3,6 +3,7 @@ namespace TechNest.ViewModels
 {
     public class JobPostingViewModel
     {
+        [Required]
         public string Title { get; set; }
 
         [Required]

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using TechNest.Models;
 using TechNest.Repositories;
@@ -6,6 +7,7 @@ using TechNest.ViewModels;
 
 namespace TechNest.Controllers
 {
+    [Authorize]
     public class JobPostingsController : Controller
     {
         private readonly IRepository<JobPosting> _repository;
@@ -18,24 +20,28 @@ namespace TechNest.Controllers
             _repository = repository;
             _userManager = userManager;
         }
+
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var jobPostings = await _repository.GetAllAsync();
-            return View();
+            return View(jobPostings);
         }
 
+        [Authorize(Roles = "Admin, Employer")]
         public IActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
+
+        [Authorize(Roles = "Admin, Employer")]
         public async Task<IActionResult> Create(JobPostingViewModel jobPostingVm)
         {
 
             if (ModelState.IsValid)
             {
-
                 var jobPosting = new JobPosting
                 {
                     Title = jobPostingVm.Title,
@@ -45,6 +51,7 @@ namespace TechNest.Controllers
                     UserId = _userManager.GetUserId(User)
 
                 }; 
+               
                 await _repository.AddAsync(jobPosting);
 
                 return RedirectToAction(nameof(Index));
