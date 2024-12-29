@@ -3,23 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\verke\\source\\repos\\TechNest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TechNest/True/SqlTable/dbo.JobPostings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|c:\\users\\verke\\source\\repos\\technest\\technest\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90493362-CF3B-47EB-8C02-84554BFB2398}|TechNest\\TechNest.csproj|solutionrelative:technest\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.JobPostings [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TechNest/True/SqlTable/dbo.JobPostings.sql",
-              "ToolTip": "dbo.JobPostings [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-23T14:26:15.439Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechNest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechNest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T04:28:36.31Z",
               "EditorCaption": ""
             },
             {
@@ -49,20 +53,20 @@
               "RelativeDocumentMoniker": "TechNest\\Controllers\\JobPostingsController.cs",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Controllers\\JobPostingsController.cs",
               "RelativeToolTip": "TechNest\\Controllers\\JobPostingsController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T23:52:01.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Views\\JobPostings\\Index.cshtml",
               "RelativeDocumentMoniker": "TechNest\\Views\\JobPostings\\Index.cshtml",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Views\\JobPostings\\Index.cshtml",
               "RelativeToolTip": "TechNest\\Views\\JobPostings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T23:51:36.973Z"
             },
@@ -74,14 +78,13 @@
               "RelativeDocumentMoniker": "TechNest\\Views\\JobPostings\\Create.cshtml",
               "ToolTip": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\Views\\JobPostings\\Create.cshtml",
               "RelativeToolTip": "TechNest\\Views\\JobPostings\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T23:20:20.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:20:20.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JobPostingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\verke\\source\\repos\\TechNest\\TechNest\\ViewModels\\JobPostingViewModel.cs",
               "RelativeDocumentMoniker": "TechNest\\ViewModels\\JobPostingViewModel.cs",
@@ -89,8 +92,7 @@
               "RelativeToolTip": "TechNest\\ViewModels\\JobPostingViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:19:49.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:19:49.573Z"
             }
           ]
         }

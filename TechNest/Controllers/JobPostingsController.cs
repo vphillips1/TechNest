@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using TechNest.Constants;
 using TechNest.Models;
 using TechNest.Repositories;
 using TechNest.ViewModels;
@@ -24,6 +25,19 @@ namespace TechNest.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
+
+
+            if(User.IsInRole(Roles.Employer))
+            {
+                var alljobPostings = await _repository.GetAllAsync();
+
+                var userId = _userManager.GetUserId(User);
+
+                var filteredJobPostings = alljobPostings.Where(jp => jp.UserId == userId);
+
+                return View(filteredJobPostings);
+            }
+
             var jobPostings = await _repository.GetAllAsync();
             return View(jobPostings);
         }
@@ -59,5 +73,29 @@ namespace TechNest.Controllers
 
             return View(jobPostingVm);
         }
+
+
+        [HttpDelete]
+        [Authorize(Roles = "Admin, Employer")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var jobPosting = await _repository.GetByIdAsync(id);
+
+            if(jobPosting == null )
+            {
+                return NotFound();
+            }
+
+            var userId = _userManager.GetUserId(User);
+
+            if(User.IsInRole(Roles.Admin) == false && jobPosting.UserId != userId)
+            {
+                return Forbid();
+            }
+
+            await _repository.DeleteAsync(id);
+            return Ok();
+        }
+
     }
 }
